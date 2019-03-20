@@ -90,7 +90,7 @@ Use back-ticks for `inline code`. Multi-line code snippets are supported too thr
 // Sample javascript code
 var s = "JavaScript syntax highlighting";
 alert(s);
-{% endhighlight %}
+{% highlight js %}
 
 {% highlight python %}
 # Sample python code
